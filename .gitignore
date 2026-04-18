@@ -1,3 +1,2 @@
-/node_modules
-/dataset-example-finnougric-objects
-/3d/node_modules
+# Godot 4+ specific ignores
+.godot/
